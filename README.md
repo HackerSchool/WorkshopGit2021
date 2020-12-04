@@ -2,6 +2,7 @@
 
 Workshop Presentation:
  * https://docs.google.com/presentation/d/1KEjCezJT9D-9aCIk1QXHnGQosTvxzJoxDUth7mheLh8/edit?usp=sharing
+ * [Links Video](https://youtu.be/Vha8jbESRtU)
 
 Our Project Model complement:
 ![Project Methodology](https://github.com/HackerSchool/hs-workshop-projects-git-2021/blob/main/project_methodology.jpeg?raw=true)
